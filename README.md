@@ -1,2 +1,3 @@
 # python-ftp-server
-Servidor FTP realizado con Python y Tkinter para la GUI
+
+Este servidor se realizó con el modulo de paramiko y hice uso de tkinter para crear la GUI del programa para un proyecto universitario que realice que consistía en configurar un servidor FTP en Centos 7 para subir y descargar archivos tanto de mi host Windows como de mi guest de VirtualBox, Centos 7, haciendo uso de este programa de Python.
